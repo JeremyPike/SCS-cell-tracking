@@ -1,6 +1,6 @@
-# Scripts for automated cell tracking and subcapsular sinus segmentation
+# Fiji scripts for automated cell tracking and subcapsular sinus segmentation
 
-If you need any questions please contact j.a.pike@bham.ac.uk
+If you have any questions please contact j.a.pike@bham.ac.uk
 
 * track.groovy performs automated 3D cell tracking using the TrackMate plugin
 * produce_ilastik_training_data.ijm creates downsampled training data for training the ilastik pixel classifier
